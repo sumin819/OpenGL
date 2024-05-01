@@ -1,0 +1,39 @@
+﻿  main.cpp
+E:\3-1\OpenGL\hw2\main.cpp(82,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(83,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(124,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(132,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(140,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(145,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(153,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(158,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(166,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(171,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(180,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(182,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(194,31): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\3-1\OpenGL\hw2\main.cpp(212,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\3-1\OpenGL\hw2\main.cpp(218,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\3-1\OpenGL\hw2\main.cpp(234,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\3-1\OpenGL\hw2\main.cpp(236,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(241,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\3-1\OpenGL\hw2\main.cpp(254,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(264,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(277,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(279,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(287,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(295,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(313,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(314,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(316,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(318,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(329,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(334,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(339,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(344,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(362,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(364,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(377,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(380,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\3-1\OpenGL\hw2\main.cpp(387,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  hw2.vcxproj -> E:\3-1\OpenGL\hw2\Debug\hw2.exe
